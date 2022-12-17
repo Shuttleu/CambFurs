@@ -1,0 +1,62 @@
+nav {
+    padding: 20px;
+  }
+  body {
+    background: #333;
+    color: $light;
+  }
+  a {
+    text-decoration: none;
+  }
+  .nav-text {
+    padding: 10px;
+    margin: 10px;
+    float: right;
+    text-decoration: none;
+    color: $light;
+  }
+  .nav-text:hover {
+    color: $success;
+  }
+  nav {
+    background: #222;
+  }
+  .current-page {
+    background: $success;
+    border-radius: 10px;
+  }
+  .current-page:hover {
+    color: $light;
+  }
+  .card {
+    margin: 0 auto;
+    color: $dark;
+  }
+  .card-box {
+    padding: 20px;
+  }
+  .container {
+    padding-top: 50px;
+  }
+  h1 {
+    color: $success;
+  }
+  .chat-link {
+    padding: 20px;
+    border-radius: 10px;
+    background: $success;
+    color: $light;
+    text-decoration: none;
+  }
+  .chat-link:hover {
+    color: $light;
+  }
+  .link-button {
+    padding: 20px;
+  }
+  .navbar-links {
+    float: right;
+  }
+  .navbar-toggler {
+    background-color: $success;
+  }
