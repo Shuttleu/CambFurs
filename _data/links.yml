@@ -1,0 +1,10 @@
+- name: Rules
+  link: /rules.html
+- name: Dates
+  link: /dates.html
+- name: Staff
+  link: /staff.html
+- name: Socials
+  link: /socials.html
+- name: Home
+  link: /
