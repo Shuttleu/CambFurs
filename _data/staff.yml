@@ -1,18 +1,3 @@
-- name: Nuka
-  nickname: Gremlin
-  photo: nuka.jpg
-- name: Orion
-  nickname: Thicc Lad
-  photo: orion.jpg
-- name: Reggie
-  nickname: Baby Boy
-  photo: reggie.jpg
-- name: Lucky
-  nickname: Tripod
-  photo: lucky.jpg
-- name: Toob
-  nickname: Some Otts
-  photo: toob.jpg
 - name: Crys
   nickname: Dad-min
   photo: crys.jpg
@@ -31,3 +16,18 @@
 - name: Snipsel
   nickname: Boss Ott
   photo: snipsel.jpg
+- name: Nuka
+  nickname: Gremlin
+  photo: nuka.jpg
+- name: Orion
+  nickname: Thicc Lad
+  photo: orion.jpg
+- name: Reggie
+  nickname: Baby Boy
+  photo: reggie.jpg
+- name: Lucky
+  nickname: Tripod
+  photo: lucky.jpg
+- name: Toob
+  nickname: Some Otts
+  photo: toob.jpg
