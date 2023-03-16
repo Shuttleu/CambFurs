@@ -6,6 +6,8 @@ title: Dates
 
 The following dates are the currently planned.
 
+> If you would like to add these dates to your calendar, you can subscribe to [our dynamic calendar](https://calendar.cambfurs.co.uk) which will automatically update when new dates/information get added.
+
 <table class="table table-dark">
   <thead>
     <tr>
