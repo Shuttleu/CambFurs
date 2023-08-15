@@ -1,1 +1,1 @@
-import * as bootstrap from 'bootstrap'
+import Collapse from 'bootstrap/js/dist/collapse'

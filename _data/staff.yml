@@ -1,33 +1,36 @@
 - name: Crys
   nickname: Dad-min
-  photo: crys.jpg
+  photo: crys.avif
 - name: Daravel
   nickname: Sir Daravel IV
-  photo: daravel.jpg
+  photo: daravel.avif
 - name: Xeechu
   nickname: Mumma Wolf
-  photo: xeechu.jpg
+  photo: xeechu.avif
 - name: Shuttleu
   nickname: Chief Tech Admin
-  photo: shuttleu.jpg
+  photo: shuttleu.avif
 - name: Dax
   nickname: Cryptidmin
-  photo: dax.jpg
+  photo: dax.avif
 - name: Snipsel
   nickname: Boss Ott
-  photo: snipsel.jpg
+  photo: snipsel.avif
 - name: Nuka
   nickname: Gremlin
-  photo: nuka.jpg
+  photo: nuka.avif
+- name: Dart
+  nickname: Gremlin
+  photo: dart.avif
 - name: Orion
   nickname: Thicc Lad
-  photo: orion.jpg
+  photo: orion.avif
 - name: Reggie
   nickname: Baby Boy
-  photo: reggie.jpg
+  photo: reggie.avif
 - name: Lucky
   nickname: Tripod
-  photo: lucky.jpg
+  photo: lucky.avif
 - name: Toob
   nickname: Some Otts
-  photo: toob.jpg
+  photo: toob.avif
