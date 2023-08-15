@@ -1,0 +1,17 @@
+sass:
+  load_paths:
+    - _sass
+    - node_modules
+  style: compressed 
+plugins:
+  - jekyll-autoprefixer
+  - jekyll/webpack
+webpack:
+  cleanup_files:
+    - src
+    - package.json
+    - package-lock.json
+    - webpack.config.js
+autoprefixer:
+  browsers:
+  - last 2 versions
