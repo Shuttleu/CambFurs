@@ -51,8 +51,11 @@ h1 {
 }
 
 .chat-link {
+  display: block;
+  text-align: center;
   padding: 20px;
   border-radius: 10px;
+  width: 100%;
   background: $success;
   color: $light;
   text-decoration: none;
