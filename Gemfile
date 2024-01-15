@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem 'execjs', '2.7.0'
 gem "jekyll", "~> 4.3.1"
-gem 'jekyll-webpack', git: 'https://github.com/Shuttleu/jekyll-webpack'
+gem 'jekyll-webpack', '~> 0.2.7'
 gem 'jekyll-autoprefixer'
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.5"

@@ -1,3 +1,5 @@
+- name: FAQ
+  link: /faq.html
 - name: Rules
   link: /rules.html
 - name: Dates
